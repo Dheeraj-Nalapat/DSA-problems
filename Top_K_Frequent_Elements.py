@@ -6,9 +6,9 @@ class Solution:
         result = []
         for i in range(k):
             temp = max(d.values())
-            for i in d.keys():
-                if d[i] == temp:
-                    result.append(i)
-                    d[i]=0
+            for j in d.keys():
+                if d[j] == temp:
+                    result.append(j)
+                    d[j]=0
                     break
-        return result  
+        return result     
