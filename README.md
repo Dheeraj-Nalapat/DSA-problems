@@ -1,6 +1,8 @@
 # DSA-problems
-![LeetCode Logo](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)
-
+<!-- LeetCode Icon -->
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode Logo" width="50" height="50">
+</p>
 ## Description:
 This repository contains solutions to Data Structures and Algorithms (DSA) questions from LeetCode, implemented in Python. The solutions primarily cover problems from LeetCode 75 (a subset of the top 75 frequently asked questions on LeetCode) and LeetCode 150. Each problem may have multiple solution methods implemented for comprehensive learning and understanding of different approaches to problem-solving.
 
