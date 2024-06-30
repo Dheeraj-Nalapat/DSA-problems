@@ -20,6 +20,5 @@ var isValidSudoku = function(board) {
             squares[Math.floor(r / 3) * 10 + Math.floor(c / 3)].add(num);
         }
     }
-    console.log(squares);
     return true;
 };
